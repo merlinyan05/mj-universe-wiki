@@ -1,0 +1,44 @@
+name: 补充设定或来源
+description: 提供人物、姓名、关系、梗或评论区线索；不会 Git 也能参与
+title: "[补充] "
+body:
+  - type: markdown
+    attributes:
+      value: "欢迎小线索。请用自己的话概括，暂时没有出处也可提交并标待核对；不要附私人信息。"
+  - type: input
+    id: topic
+    attributes:
+      label: 涉及人物或话题
+      placeholder: "例如：绿巨人的父亲姓名"
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 想补充什么
+      description: "谁是谁的什么人？适用于哪个作者、分支或单集？"
+    validations:
+      required: true
+  - type: dropdown
+    id: evidence
+    attributes:
+      label: 来源类型
+      options:
+        - 片内设定
+        - 作者补充
+        - 评论共创或弹幕
+        - 整理推断
+        - 原创扩写
+        - 待核对线索
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 来源链接与定位
+      description: "视频或帖子链接、时间点、评论及回复上下文；找不到时写明缺失。"
+  - type: textarea
+    id: scope
+    attributes:
+      label: 实际看到了哪些内容
+      description: "标题、简介、评论、图片、片段或完整视频；有无与现有条目冲突的版本？"

@@ -1,0 +1,87 @@
+{
+  "researched_on": "2026-11-01",
+  "scope": "灭霸夜间朋友圈文案、次日学校被同学引用起哄的校园恶搞分支。",
+  "method": "直接打开原片，读取完整平台自动字幕并核对关键画面。自动字幕有同音字错误，概括以可核对情节为准。",
+  "sources": [
+    {
+      "title": "《灭霸的扎啤文案》",
+      "url": "https://www.bilibili.com/video/BV1gMxz6hEdg/",
+      "duration_seconds": 123,
+      "observations": [
+        {
+          "range": "0–42s",
+          "paraphrase": "夜间严肃自述被同学发现；翌日围绕原文词语逐句追问，当事人生气。"
+        },
+        {
+          "range": "42–81s",
+          "paraphrase": "夜间改发另一种人设文案，次日再次被同学公开引用，形成两轮循环。"
+        }
+      ]
+    },
+    {
+      "title": "可怜的灭霸晚上发个朋友圈第二天得到所有人的嘲笑",
+      "url": "https://www.bilibili.com/video/BV1BSHF6sE4a/",
+      "duration_seconds": 82,
+      "observations": [
+        {
+          "range": "0–10s",
+          "paraphrase": "深夜发布要显露另一面的强硬人设文案。"
+        },
+        {
+          "range": "27–50s",
+          "paraphrase": "同学在学校转述文案并装作害怕；灭霸的强硬姿态被拆解成谈资。"
+        },
+        {
+          "range": "52–82s",
+          "paraphrase": "同学联系灭霸父亲；父亲复述文案，长辈身份压过网络人设，灭霸开始解释。"
+        }
+      ]
+    },
+    {
+      "title": "灭霸又发朋友圈了",
+      "url": "https://www.bilibili.com/video/BV1NbxC6YEJP/",
+      "duration_seconds": 37,
+      "observations": [
+        {
+          "range": "0–11s",
+          "paraphrase": "文案被发现，转发给同学，提前预告次日的起哄。"
+        },
+        {
+          "range": "13–20s",
+          "paraphrase": "同学借喝水的场景套用水和眼泪的意象，并给当事人起外号。"
+        },
+        {
+          "range": "31–37s",
+          "paraphrase": "当事人趴桌破防，用委屈的退场话收尾。"
+        }
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "title": "被转发的都是扎啤",
+      "url": "https://www.bilibili.com/video/BV139xa62E1H/",
+      "reason": "完整字幕显示是游戏合成和家长名字梗，不作为emo朋友圈公式的证据。"
+    }
+  ],
+  "synthesis": {
+    "formula": [
+      "夜间认真树立情绪或人设",
+      "熟人发现并传播，观众先知道次日要发生什么",
+      "次日在日常场景当面引用原文",
+      "其他同学围绕同一原文换角度接梗",
+      "当事人解释、否认或生气，反应成为下一轮素材",
+      "收尾可直接破防、引入家长等权威、或再次深夜发帖循环"
+    ],
+    "mechanics": [
+      "同一句话在夜间独处与次日集体场景中的语境差异",
+      "具体文案关键词能被字面化、做成道具梗或外号",
+      "重复时必须变换用途、听众或回应，推动羞耻感升级",
+      "主角认真且逐步破防，其他人自然接话，笑声只作结果"
+    ]
+  },
+  "settings_document": "docs/MJ_UNIVERSE.md",
+  "broad_research_document": "docs/MJ_RESEARCH_NOTES.md",
+  "scope_note": "本 JSON 保存早期片例与公式归纳，不提供制作任务或个人对话记录。其他分支见 docs/MJ_UNIVERSE.md。",
+  "character_records": "characters/README.md"
+}

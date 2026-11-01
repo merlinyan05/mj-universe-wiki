@@ -1,0 +1,24 @@
+name: 纠错与版本差异
+description: 更正错误关系、名字、来源或证据范围，补充冲突版本
+title: "[纠错] "
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: 相关条目链接或文件名
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 哪一处不准确
+      description: "请区分事实错误与不同作者的不同版本。"
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 建议修改与依据
+      description: "附原链接、时间点或评论上下文；仅有线索时也可以写明。"
+    validations:
+      required: true
