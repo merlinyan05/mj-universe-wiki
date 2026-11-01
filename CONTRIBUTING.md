@@ -24,8 +24,8 @@
 先在 GitHub 点击 **Fork**，复制自己 Fork 的克隆地址。以下地址中的 `YOUR-USERNAME` 请替换成自己的账号；如果更改了 Fork 名称，也相应替换仓库名。
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/mj-universe.git
-cd mj-universe
+git clone https://github.com/YOUR-USERNAME/mj-universe-wiki.git
+cd mj-universe-wiki
 git switch -c docs/add-character-detail
 # 修改相关条目；新增文件时同步更新对应 README 索引
 python3 scripts/check_docs.py
