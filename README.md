@@ -19,6 +19,7 @@
 | 搭档、师生、CP 与关系未明的名字 | [人物关系](relationships/README.md) |
 | 这下玩大了、姓名接龙、蚁人去哪了 | [梗与口头禅](memes/README.md) |
 | emo 朋友圈、姓名攻防、整蛊反制 | [剧情套路](universes/patterns/README.md) |
+| 2026-11-02 新增：情报换位、文案字面化、餐厅规则等 6 种机制 | [最新调研](docs/MJ_RESEARCH_NOTES.md) · [模式索引](universes/patterns/README.md) |
 | 原片与评论的链接、观察范围 | [来源记录](sources/README.md) |
 | 调研方法与历史检索 | [调研笔记](docs/MJ_RESEARCH_NOTES.md) |
 
