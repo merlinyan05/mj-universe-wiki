@@ -5,10 +5,10 @@
 | 想查的内容 | 入口 |
 | --- | --- |
 | 角色、爸爸妈妈、后代与别名 | [人物档案](../characters/README.md) |
-| 课堂、宇宙、日常、CP 分支 | [分支索引](../branches/README.md) |
+| 课堂、宇宙、日常、CP 分支 | [宇宙与故事模式](../universes/README.md) |
 | 搭档、师生、CP 与关系未明姓名 | [人物关系](../relationships/README.md) |
 | 这下玩大了、姓名接龙、时间线 | [梗与口头禅](../memes/README.md) |
-| emo 朋友圈、姓名攻防、反制 | [剧情套路](../patterns/README.md) |
+| emo 朋友圈、姓名攻防、反制 | [剧情套路](../universes/patterns/README.md) |
 | 原片、评论与核对范围 | [来源记录](../sources/README.md) |
 | 调研方法与历史检索结果 | [调研笔记](MJ_RESEARCH_NOTES.md) |
 

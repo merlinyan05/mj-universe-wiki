@@ -9,7 +9,7 @@ from urllib.parse import unquote, urlsplit
 
 
 ROOT = Path(__file__).resolve().parents[1]
-TOPICS = ("characters", "branches", "relationships", "memes", "patterns", "sources")
+TOPICS = ("characters", "universes", "relationships", "memes", "sources")
 LINK = re.compile(r"!?\[[^\]\n]*\]\(([^)\n]+)\)")
 FORBIDDEN = (
     ("personal absolute path", re.compile(r"/(?:Users|home)/[^\s/]+|[A-Za-z]:\\(?:Users|Documents)\\")),
@@ -78,15 +78,23 @@ def main():
             targets.add(destination)
         local_targets[path] = targets
 
+    directories = []
     for topic in TOPICS:
-        directory = ROOT / topic
+        base = ROOT / topic
+        directories.append(base)
+        directories.extend(path for path in base.rglob("*") if path.is_dir())
+    for directory in directories:
+        relative_directory = directory.relative_to(ROOT)
         index = directory / "README.md"
         if not index.is_file():
-            errors.append(f"{topic}: missing README index")
+            errors.append(f"{relative_directory}: missing README index")
             continue
         for entry in directory.glob("*.md"):
             if entry != index and entry not in local_targets.get(index, set()):
                 errors.append(f"{entry.relative_to(ROOT)}: absent from its README index")
+        for child in directory.iterdir():
+            if child.is_dir() and child / "README.md" not in local_targets.get(index, set()):
+                errors.append(f"{child.relative_to(ROOT)}: absent from its parent README index")
     if errors:
         print("Documentation checks failed:")
         for error in errors:

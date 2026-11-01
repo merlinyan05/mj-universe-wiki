@@ -33,3 +33,15 @@
 另检查了同名候选 [stancap21-lab/MJ-Universe](https://github.com/stancap21-lab/MJ-Universe)：README 只有标题，实际“测试”文件为其他架空世界故事，不是本次讨论的漫威 MJ。`fpich/mj-universel` 的 README 则是法文 Rust 项目说明，也排除。没有因为名称里含 MJ 或 Universe 就纳入设定来源。
 
 本轮没有从 GitHub 导入新的亲属关系或人物设定；以上资料用于记录搜索结果与素材入口。
+
+## 首次公开前的同类项目复查
+
+复查日期：2026-11-01。项目定位中的“据目前公开检索所知的首个开源 MJ 宇宙设定集”，是基于公开检索的有限判断，不是对全网首发顺序的穷尽证明；欢迎提供更早的同主题仓库并修订说明。
+
+本次直接使用 GitHub 仓库搜索，检查名称或描述中的 `MJ宇宙`、`MJ 宇宙`、`mj-universe`、`灭建国`、`MJ 设定集`，并以站外搜索补查 GitHub 页面。中文完整短语和设定相关查询均未返回匹配仓库；`mj-universe` 返回的同名候选包含其他世界观、网站及软件项目。仓库搜索的结果不等于对所有代码文件、其他平台和未索引项目的完整覆盖。
+
+- [stancap21-lab/MJ-Universe](https://github.com/stancap21-lab/MJ-Universe)：本次 README 仍只有标题；此前文件核对记录为其他架空世界，未据名称认作同主题设定集。
+- [mjuniverse0/mjuniverse-macv2](https://github.com/mjuniverse0/mjuniverse-macv2)：读取 README，为挪威语说明的 Next.js 网站参考构建，不是这里讨论的 MJ 二创人物设定集。
+- [mjuniverse0/mj-universe-win-old](https://github.com/mjuniverse0/mj-universe-win-old)：本次读取根目录 README 返回 404，不能仅凭名字确定其内容，保留为未充分核对候选。
+
+截至本次复查，未发现可确认的更早同主题专门开源设定集。这个结论可以随新线索更新，不将“没有搜到”当作“不可能存在”。
