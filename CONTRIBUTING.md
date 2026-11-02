@@ -65,6 +65,29 @@ GitHub 操作参考：[Fork 与 PR 流程](https://docs.github.com/en/get-starte
 
 模板：[宇宙](templates/宇宙模板.md) · [故事模式](templates/故事模式模板.md) · [人物](templates/人物模板.md) · [来源](templates/来源模板.md) · [单条设定](templates/设定模板.md)。只补现有条目的一行时，不必复制整份模板。
 
+## 图片与表情包怎么提交
+
+支持 JPG／JPEG、PNG、GIF 和 WebP 图片，包含 GIF 动图。校验脚本按二进制读取这些格式并核对文件头，不再要求图片是 UTF-8 文本；文件头检查不等于完整解码或人工审核图片内容。
+
+建议放在 `memes/images/角色名/`，使用容易辨认的文件名，例如 `memes/images/灭霸/thanos_01_funny-face.jpg`。纯图片目录不用逐层新建 README；含 Markdown 资料的目录仍需 README 索引。
+
+在对应梗条目或素材清单中使用相对路径展示图片，例如：
+
+```markdown
+![灭霸的表情描述](images/灭霸/thanos_01_funny-face.jpg)
+```
+
+示例路径应替换为实际提交文件；图片链接也会检查是否存在。新增素材清单时，将清单加入 `memes/README.md`。清单按图片记录原链接、创作者（已知时）、实际观察范围和转载许可或授权依据；跨角色素材可按角色分组。
+
+依照[第三方资料说明](ATTRIBUTION.md)，原创或有明确转载授权的图片可以随 PR 提交；尚未确认转载授权的网络搜图先收录来源链接和文字索引。来源链接、第三方版权声明与转载授权分别说明，不把第三方素材自动改用本仓库的 CC 许可。提交前也请检查图片中的私人信息。
+
+可在本地运行以下检查，不需要安装第三方 Python 包：
+
+```bash
+python3 scripts/check_docs.py
+python3 -m unittest discover -s tests -v
+```
+
 ## 一条有用的贡献长什么样
 
 例如已有来源记录 [R09](sources/R09.md) 保存了“绿巨人父亲叫绿豆汤”的评论观察：

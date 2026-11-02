@@ -1,5 +1,7 @@
 # MJ宇宙设定集｜人物、关系、世界线与经典梗
 
+![MJ 宇宙设定集封面：灭霸、小浣熊与钢铁侠在教室整理设定，黑板绘有人物关系网络](assets/images/mj-universe-cover.png)
+
 **MJ Universe Wiki · 全网首个开源 MJ 宇宙设定集。欢迎所有乐子人一起补全人物、性格、关系、世界线和故事套路！**
 
 灭建国是谁？蚁人去哪里了？“这下玩大了”是谁对谁说的？
@@ -23,7 +25,7 @@
 | 原片与评论的链接、观察范围 | [来源记录](sources/README.md) |
 | 调研方法与历史检索 | [调研笔记](docs/MJ_RESEARCH_NOTES.md) |
 
-本仓库可以单独下载、克隆和阅读，内容为 Markdown 与 JSON；本地检查只需 Python 3 标准库。
+本仓库可以单独下载、克隆和阅读，资料以 Markdown 与 JSON 为主，也支持符合收录要求的 JPG／JPEG、PNG、GIF、WebP 图片。图片提交方式见[贡献指南](CONTRIBUTING.md)，本地检查只需 Python 3 标准库。
 
 ## 从经典问题找设定
 
