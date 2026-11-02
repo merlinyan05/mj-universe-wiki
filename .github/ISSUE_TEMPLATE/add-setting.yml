@@ -4,7 +4,7 @@ title: "[补充] "
 body:
   - type: markdown
     attributes:
-      value: "欢迎小线索。请用自己的话概括，暂时没有出处也可提交并标待核对；不要附私人信息。"
+      value: "欢迎小线索。请用自己的话概括，暂时没有出处也可提交并标待核对；不要附私人信息。配图请说明帮助理解哪条设定，通用素材合集请提供文字介绍与外链，无需上传整包。"
   - type: input
     id: topic
     attributes:
@@ -16,7 +16,7 @@ body:
     id: detail
     attributes:
       label: 想补充什么
-      description: "谁是谁的什么人？适用于哪个作者、分支或单集？"
+      description: "谁是谁的什么人？适用于哪个作者、分支或单集？如含配图，请说明关联条目或展示用途。"
     validations:
       required: true
   - type: dropdown
@@ -36,7 +36,7 @@ body:
     id: source
     attributes:
       label: 来源链接与定位
-      description: "视频或帖子链接、时间点、评论及回复上下文；找不到时写明缺失。"
+      description: "视频或帖子链接、时间点、评论及回复上下文；配图补充原始来源及权利状态，素材合集补充访问链接与实际核对范围；找不到时写明缺失。"
   - type: textarea
     id: scope
     attributes:
