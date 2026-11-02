@@ -18,3 +18,5 @@ jobs:
           python-version: '3.12'
       - name: Check documentation and repository boundaries
         run: python3 scripts/check_docs.py
+      - name: Test image contributions and documentation rules
+        run: python3 -m unittest discover -s tests -v
