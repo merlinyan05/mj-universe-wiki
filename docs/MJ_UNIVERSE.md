@@ -10,6 +10,7 @@
 | 这下玩大了、姓名接龙、时间线 | [梗与口头禅](../memes/README.md) |
 | emo 朋友圈、姓名攻防、反制 | [剧情套路](../universes/patterns/README.md) |
 | 原片、评论与核对范围 | [来源记录](../sources/README.md) |
+| 现实中的起源、传播节点与首创争议 | [起源与传播史](MJ_HISTORY.md) |
 | 调研方法与历史检索结果 | [调研笔记](MJ_RESEARCH_NOTES.md) |
 
 ## 证据与版本
