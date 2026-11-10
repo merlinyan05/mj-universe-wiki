@@ -16,15 +16,15 @@
 
 | 想找什么 | 入口 |
 | --- | --- |
-| 灭霸、小浣熊、古一、浩克等 17 份档案；父母、后代与别名 | [人物档案](characters/README.md) |
-| 13 份人物档案的三视图、概念设计与服装资料外链；4 份待补 | [外观参考](characters/README.md#外观参考) |
+| 灭霸、小浣熊、古一、浩克等 21 份档案；父母、后代与别名 | [人物档案](characters/README.md) |
+| 13 份人物档案的三视图、概念设计与服装资料外链；8 份待补 | [外观参考](characters/README.md#外观参考) |
 | 课堂、宇宙整活、日常、CP 与跨题材客串 | [宇宙与故事模式](universes/README.md) |
 | 搭档、师生、CP 与关系未明的名字 | [人物关系](relationships/README.md) |
 | 这下玩大了、姓名接龙、蚁人去哪了 | [梗与口头禅](memes/README.md) |
 | emo 朋友圈、姓名攻防、整蛊反制 | [剧情套路](universes/patterns/README.md) |
-| 2026-11-09 更新：人物行为、亲属版本、误评家长／伪系统等机制与客串片例 | [最新调研](docs/MJ_RESEARCH_NOTES.md) · [模式索引](universes/patterns/README.md) |
+| 2026-11-10 更新：班长、家庭称谓、连续世界线、早期投稿与故事变体 | [最新调研](docs/MJ_RESEARCH_NOTES.md) · [模式索引](universes/patterns/README.md) |
 | 原片与评论的链接、观察范围 | [来源记录](sources/README.md) |
-| MJ名称、胖蜘蛛侠图像、校园分支与灭建国的现实传播；2026-11-09更新 | [起源与传播史](docs/MJ_HISTORY.md) |
+| MJ名称、胖蜘蛛侠图像、校园分支与灭建国的现实传播；2026-11-10更新 | [起源与传播史](docs/MJ_HISTORY.md) |
 | 调研方法与历史检索 | [调研笔记](docs/MJ_RESEARCH_NOTES.md) |
 
 本仓库以图文资料讲清人物、关系、世界线与经典梗。图片用于辅助理解具体条目或展示 Wiki：可以收录封面、人物识别图、关系图、必要截图，以及需要动作才能说明问题的简短 GIF。通用表情包、壁纸和贴图合集通过文字索引与外链介绍，整包素材留在外部存放位置。
