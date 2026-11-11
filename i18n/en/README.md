@@ -1,5 +1,9 @@
 # MJ Universe Wiki | Characters, Relationships, Worldlines and Classic Memes
 
+![MJ universe cover: Thanos, Rocket Raccoon and Iron Man sorting settings in a classroom, with a character relationship network on the blackboard](../../assets/images/mj-universe-cover.png)
+
+**English** · [简体中文](../../README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [繁體中文](../zh-Hant/README.md)
+
 **MJ Universe Wiki · the first open-source MJ universe reference on the internet. Everyone who enjoys the joke is welcome to help complete the characters, personalities, relationships, worldlines and story formulas!**
 
 Who is Mie Jianguo? Where did Ant-Man go? Who says "Now we're really in trouble" to whom?

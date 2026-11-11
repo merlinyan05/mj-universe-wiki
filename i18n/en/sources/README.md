@@ -2,8 +2,6 @@
 
 Each record states the actual scope seen; titles, comments, sampled clips and full viewing are not mixed.
 
-> The individual records are currently maintained in Chinese in [`sources/`](../../../sources/README.md); this index gives the English titles and links to the original records.
-
 ## Original videos and comments
 
 - [R01: A parents'-name chain on Weibo](R01.md)

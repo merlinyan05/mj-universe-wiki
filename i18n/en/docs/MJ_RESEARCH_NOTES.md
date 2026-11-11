@@ -49,7 +49,7 @@ As of this re-check, no confirmable earlier open-source setting collection on th
 
 ## 2026-11-02: 20 minutes of original pages and comment additions
 
-This round used scheduled targets to keep searching, reading and organising, focusing on direct Bilibili and Douyin video pages and public comments. New [R15–R27 source records](../sources/README.md): 9 Bilibili pages and 4 Douyin pages; R02's Douyin comments were revisited as well. Off-site searches served only as entry points; unrelated film canon, financial topics and aggregator pages without reliable provenance were not imported as settings.
+This round used scheduled targets to keep searching, reading and organising, focusing on direct Bilibili and Douyin video pages and public comments. New [R15–R27 source records](../sources/README.md): 9 Bilibili pages and 4 Douyin pages; [R02](../sources/R02.md)'s Douyin comments were revisited as well. Off-site searches served only as entry points; unrelated film canon, financial topics and aggregator pages without reliable provenance were not imported as settings.
 
 Actual checking relied mainly on titles, popular comments, default replies and some manually expanded reply threads, supplemented by a few video frames. This round did not watch these videos sentence by sentence in full, nor read every comment on every page, so the summary here cannot be treated as a complete plot synopsis or an internet-wide consensus. No comments were posted, no creators were contacted and no follow state was changed.
 

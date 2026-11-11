@@ -58,6 +58,7 @@ GitHub reference: [Fork and PR workflow](https://docs.github.com/en/get-started/
 | Universe-specific story patterns | `universes/universe-name/patterns/` | Explain trigger, escalation and consequence, attach video examples and update the index |
 | Patterns reusable across universes | `universes/patterns/` | Mark the typical universe, reuse scope and differences; other universes only link |
 | Observations of original videos, comments and danmaku | `sources/` | Copy the source template, assign an unused number and update the source index |
+| Real-world origin, spread milestones and first-appearance disputes | `docs/MJ_HISTORY.md` | Create the source record first; distinguish first posts, reposts, archive additions and recollection; attach a checkable publish time and location |
 
 Source numbers increase from the existing ones; never renumber old entries. If two people pick the same new number, coordinate during PR review. Character names are maintained in one place only — the character file — and other pages link to it to avoid conflicting lists.
 
