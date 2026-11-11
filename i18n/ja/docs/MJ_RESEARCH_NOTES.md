@@ -29,7 +29,7 @@ GitHubのリポジトリ、コードファイル、Issuesを検索し、サイ�
 | [qiu7c/Tiktok-MJ-for-Wechat](https://github.com/qiu7c/Tiktok-MJ-for-Wechat) | READMEとルートディレクトリ。WeChatメッセージでスパイダーマンのアニメが発動し、2つのマスク素材と透明動画の制作説明を含む | アニメ素材と実装参考はあるが、人物設定や家系図の整理ではない |
 | [woods-marshes/MJ](https://github.com/woods-marshes/MJ) | README、ルート、完全なファイルツリー。Androidでmjと入力するとスパイダーマンのアニメが再生され、素材は前プロジェクトを引用 | 関連するイースターエッグツール。今回の研究に使えるキャラクター資料ディレクトリは見つからない |
 | [cxyfreedom/website-hot-hub](https://github.com/cxyfreedom/website-hot-hub/blob/main/archives/bilibili/2026-10-31.md) | アーカイブMarkdownを直接読取。滅建国関連の急上昇動画リンクを収録 | 動画入口と急上昇記録を補える。人物設定は説明しない |
-| [iiecho1/hot_searches_for_apps](https://github.com/iiecho1/hot_searches_for_apps) | コード検索で特定日の急上昇ファイルに命中し、MJユニバース関連の動画タイトルとリンクを含む | 急上昇の手がかり。まだ专题知識庫としては使っていない |
+| [iiecho1/hot_searches_for_apps](https://github.com/iiecho1/hot_searches_for_apps) | コード検索で特定日の急上昇ファイルに命中し、MJユニバース関連の動画タイトルとリンクを含む | 急上昇の手がかり。まだ専門知識ベースとしては使っていない |
 
 同名候補 [stancap21-lab/MJ-Universe](https://github.com/stancap21-lab/MJ-Universe) も確認した。READMEはタイトルのみで、実際の「テスト」ファイルは別の架空世界の物語であり、今回論じるマーベルMJではない。`fpich/mj-universel` のREADMEはフランス語のRustプロジェクト説明で、これも除外した。名前にMJやUniverseが含まれるというだけで設定の出典にはしない。
 
@@ -85,7 +85,7 @@ GitHubのリポジトリ、コードファイル、Issuesを検索し、サイ�
 
 ### 確認方法の小結
 
-ショートの自動連続再生は別の動画に切り替わるため、遭遇時に現在の題名と実際のアドレスを再確認した。R20は実際にコメントを読んだページで建档し、R23は連続再生後の合集コメントを原編に帰属させていない。検索要約と現在のコメントが一致しない場合は、それぞれの可視範囲で明記し、作者がなお公開確認している説として補写しない。
+ショートの自動連続再生は別の動画に切り替わるため、遭遇時に現在の題名と実際のアドレスを再確認した。R20は実際にコメントを読んだページを基準に記録し、R23は連続再生後の合集コメントを原編に帰属させていない。検索要約と現在のコメントが一致しない場合は、それぞれの可視範囲で明記し、作者がなお公開確認している説として補写しない。
 
 ## 2026-11-08 続查：起源動画と確認可能な節目
 
