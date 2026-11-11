@@ -19,14 +19,14 @@ Each character is maintained independently; relatives' names follow the correspo
 | [Wolverine](金刚狼.md) | Parents'-name chain | [Appearance](../../../characters/金刚狼.md#外观参考外链) |
 | [Batman](蝙蝠侠.md) | Cross-work expansion, parents'-name chain | Pending |
 | [MJ and Fat Spider-Man](MJ与胖蜘蛛侠.md) | Everyday life, diner, part-time work | Pending |
-| [JARVIS](../../../characters/贾维斯.md) | Technical execution, information gathering and misread requests | Pending |
-| [Doctor Fate](../../../characters/命运博士.md) | The neighboring DC homeroom teacher and family-name homophones in creator versions | Pending |
-| [Nick Fury](../../../characters/尼克·弗瑞.md) | Creator differences between teacher and tuck-shop owner | Pending |
-| [Loki](../../../characters/洛基.md) | Campus borrowing visits and scare misidentifications | Pending |
-| [Superman](../../../characters/超人.md) | Dorm checks, father-name tracing and counter-measures | Pending |
-| [Gamora](../../../characters/卡魔拉.md) | Daughter title in a creator's family series | Pending |
+| [JARVIS](贾维斯.md) | Technical execution, information gathering and misread requests | Pending |
+| [Doctor Fate](命运博士.md) | The neighboring DC homeroom teacher and family-name homophones in creator versions | Pending |
+| [Nick Fury](尼克·弗瑞.md) | Creator differences between teacher and tuck-shop owner | Pending |
+| [Loki](洛基.md) | Campus borrowing visits and scare misidentifications | Pending |
+| [Superman](超人.md) | Dorm checks, father-name tracing and counter-measures | Pending |
+| [Gamora](卡魔拉.md) | Daughter title in a creator's family series | Pending |
 
-To add a character, copy the [character template](../../../templates/人物模板.md) (Chinese) and add a line to this index.
+To add a character, copy the [character template](../templates/人物模板.md) (Chinese) and add a line to this index.
 
 ## Appearance reference
 

@@ -6,7 +6,7 @@ Who is Mie Jianguo? Where did Ant-Man go? Who says "Now we're really in trouble"
 
 `mj-universe-wiki` collects the character personalities, parents' names, family trees, classic memes and comment-section co-creation from MJ-universe / Marvel fan-made short videos on Bilibili, Douyin and other platforms. It covers the campus, standard-universe chaos, everyday-life and Thanos/Hulk CP versions, so you can look up settings, write scripts and make videos — and help improve this community wiki.
 
-> The "first open-source" claim is based on a public search up to 2026-11-01: no earlier dedicated open-source reference on the same theme was found. This does not exhaust every platform or unindexed project. If you know an earlier one, please add and correct it through an Issue. [Search record](../../docs/MJ_RESEARCH_NOTES.md)
+> The "first open-source" claim is based on a public search up to 2026-11-01: no earlier dedicated open-source reference on the same theme was found. This does not exhaust every platform or unindexed project. If you know an earlier one, please add and correct it through an Issue. [Search record](docs/MJ_RESEARCH_NOTES.md)
 
 Different creators and individual episodes may have different versions. This reference keeps the differences and their sources instead of declaring a single canon for every work. Character relationships, relatives' names and plot mechanics are recorded with their known scope; corrections and further evidence are welcome.
 
@@ -19,11 +19,11 @@ Different creators and individual episodes may have different versions. This ref
 | Classroom, universe chaos, everyday life, CP and cross-genre cameos | [Universes and story patterns](universes/README.md) |
 | Partners, teachers and students, CP, and names with unclear relationships | [Relationships](relationships/README.md) |
 | "Now we're really in trouble", name chains, where Ant-Man went | [Memes and catchphrases](memes/README.md) |
-| Emo social posts, name offense and defense, pranks and counter-pranks | [Plot formulas](../../universes/patterns/README.md) |
-| Updated 2026-11-10: class monitor, family terms, continuous worldlines, early submissions and story variants | [Latest research](../../docs/MJ_RESEARCH_NOTES.md) · [Pattern index](../../universes/patterns/README.md) |
+| Emo social posts, name offense and defense, pranks and counter-pranks | [Plot formulas](universes/patterns/README.md) |
+| Updated 2026-11-10: class monitor, family terms, continuous worldlines, early submissions and story variants | [Latest research](docs/MJ_RESEARCH_NOTES.md) · [Pattern index](universes/patterns/README.md) |
 | Links to original videos and comments, scope of observation | [Source records](sources/README.md) |
-| The MJ name, Fat Spider-Man images, the campus branch and Mie Jianguo's real-world spread; updated 2026-11-10 | [Origins and spread](../../docs/MJ_HISTORY.md) |
-| Research method and search history | [Research notes](../../docs/MJ_RESEARCH_NOTES.md) |
+| The MJ name, Fat Spider-Man images, the campus branch and Mie Jianguo's real-world spread; updated 2026-11-10 | [Origins and spread](docs/MJ_HISTORY.md) |
+| Research method and search history | [Research notes](docs/MJ_RESEARCH_NOTES.md) |
 
 This repository explains characters, relationships, worldlines and classic memes through text and images. Images support specific entries or present the wiki: covers, character identification images, relationship charts, necessary screenshots, and short GIFs where motion is needed to explain the point. Generic reaction images, wallpapers and sticker collections are introduced through a text index and external links, with the full asset packs kept outside the repository.
 
@@ -34,12 +34,12 @@ Material is mainly Markdown and JSON and can be downloaded, cloned and read on i
 | Question | Read |
 | --- | --- |
 | Who is Mie Jianguo? What are Thanos's parents called? | [Mie Jianguo](characters/灭建国.md) · [Thanos and relatives versions](characters/灭霸.md) |
-| Where did Ant-Man go? | [Where Ant-Man went](../../memes/蚁人去哪了.md) · [Ant-Man character file](characters/蚁人.md) |
+| Where did Ant-Man go? | [Where Ant-Man went](memes/蚁人去哪了.md) · [Ant-Man character file](characters/蚁人.md) |
 | Why does Rocket Raccoon always know the news first? | [The strongest information position and behavioral rules](characters/小浣熊.md) |
-| Who usually says "Now we're really in trouble" to whom? | [Targets and situations of the catchphrase](../../memes/这下玩大了.md) |
-| Why is Thanos mocked the day after posting an emo social update? | [Campus universe story pattern](../../universes/校园宇宙/patterns/深夜emo次日被嘲笑.md) |
-| What is the relationship between Thanos and Hulk? | [CP creator versions and evidence boundaries](../../relationships/灭霸与浩克.md) |
-| Where does the MJ universe come from? Who made Fat Spider-Man and Mie Jianguo first? | [Verified dates, retrospective claims and pending evidence](../../docs/MJ_HISTORY.md) |
+| Who usually says "Now we're really in trouble" to whom? | [Targets and situations of the catchphrase](memes/这下玩大了.md) |
+| Why is Thanos mocked the day after posting an emo social update? | [Campus universe story pattern](universes/校园宇宙/patterns/深夜emo次日被嘲笑.md) |
+| What is the relationship between Thanos and Hulk? | [CP creator versions and evidence boundaries](relationships/灭霸与浩克.md) |
+| Where does the MJ universe come from? Who made Fat Spider-Man and Mie Jianguo first? | [Verified dates, retrospective claims and pending evidence](docs/MJ_HISTORY.md) |
 
 ## How to use it for scripts and videos
 
@@ -77,13 +77,17 @@ See the [contributing guide](CONTRIBUTING.md) for concrete steps, copyable comma
 
 "Thanos's father is Mie Jianguo" and "Who is Huan Xiaoli" provide different information: the first states a kinship direction, while the second only proves that a name appeared. Do not invent a family tree from a name's gender or from two people appearing side by side in a title.
 
-In-video canon, creator supplements, comment co-creation, editorial inference and original expansion are marked separately. Initial claims without public direct evidence are listed as [pending proposals](../../sources/E01.md) and can be revised with new sources.
+In-video canon, creator supplements, comment co-creation, editorial inference and original expansion are marked separately. Initial claims without public direct evidence are listed as [pending proposals](sources/E01.md) and can be revised with new sources.
 
 ## Support this reference
 
 If it helped you look up a setting, write a script or make a video, please click **Star ⭐** in the top-right corner so you can find it again and more fans can discover the project.
 
 Share the repository with MJ-universe viewers, short-video creators and anyone who enjoys reading the comments. If you know one name, one meme or one worldline, you can start contributing by [opening an Issue or PR](CONTRIBUTING.md).
+
+## Other languages
+
+This reference provides entries in English, Japanese, Korean and Traditional Chinese; see [Translations](../README.md) for translation conventions, the glossary and coverage status. Simplified Chinese is the source language; when a translation conflicts with the Chinese entry, the Chinese entry and its source records take precedence. Contributions to translations in other languages are welcome.
 
 ## License and attribution
 

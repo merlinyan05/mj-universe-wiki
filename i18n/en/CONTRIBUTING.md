@@ -63,11 +63,62 @@ Source numbers increase from the existing ones; never renumber old entries. If t
 
 Character positioning, personality, habits, speech style and behavior in different universes are also welcome; attach concrete video examples to every summary instead of empty labels such as "smart" or "scheming". For cameos, state which character version is used; a cameo does not automatically inherit all of that version's relationships.
 
-Templates: [universe](../../templates/宇宙模板.md) · [story pattern](../../templates/故事模式模板.md) · [character](../../templates/人物模板.md) · [source](../../templates/来源模板.md) · [single setting](../../templates/设定模板.md). If you are only adding one line to an existing entry, you do not need to copy a whole template.
+Templates: [universe](templates/宇宙模板.md) · [story pattern](templates/故事模式模板.md) · [character](templates/人物模板.md) · [source](templates/来源模板.md) · [single setting](templates/设定模板.md). If you are only adding one line to an existing entry, you do not need to copy a whole template.
+
+## How to submit images and memes
+
+### Character three-view sheets and appearance references
+
+See the [appearance reference in the character files](characters/README.md#appearance-reference) for the current entry. In the "Appearance reference (external links)" section of the matching `characters/<name>.md`, add the source page, the author or publisher (when known), the film/game/fan/MJ creator version, the actual viewpoints, the verification date and scope, and whether permission has been confirmed. Prefer linking to official or author pages; when using a gallery entry, state that it is a gallery collection and do not treat the gallery as the original author. Write three-view sheets and general multi-angle displays separately.
+
+When permission is unconfirmed, add only a plain text link; do not download images into the repository or embed remote originals with Markdown image syntax. Do not claim free reposting, commercial use or AI generation rights; a reference link is not proof of permission, nor is it evidence for MJ original-video appearance or character relationships. If you later submit self-drawn or AI-generated reference images, state the community-created version, the creation method and the boundary of third-party character rights, and review them under the image rules below.
+
+### First explain what the image helps readers understand
+
+This repository organizes MJ universe settings, and images serve the understanding of characters, relationships, worldlines and classic memes, or wiki presentation. When submitting, answer: **which setting does this image help the reader understand, or what clear presentation purpose does it serve?**
+
+| Can be included with an entry | How to state the purpose |
+| --- | --- |
+| README cover, character identification image, relationship chart, worldline diagram | State the display position or related entry; note self-drawn and AI-generated diagrams separately from original-video evidence |
+| Screenshots supporting a specific setting or classic meme | Link the related entry and record the original link, time point or comment context, creator version and actual verification scope |
+| A short GIF that can only be understood through motion | Explain the motion that a static image cannot express, and keep only the segment needed for that entry |
+
+Generic Marvel reaction images, wallpapers, chibi stickers and other general asset collections are introduced through text indexes and external links. Even with reposting permission, assets must fall within the scope above to be included with an entry. "It might be useful for a video later" is not enough to explain its relation to the settings.
+
+### General asset collections use indexes and external links
+
+You can add an asset index under `memes/` and link an external storage location or a separate asset repository; there is no need to commit the whole image pack first. The index should state the collection name, covered characters or themes, its relation to the reference, the access link, source and rights status, and what range of quantity and content was actually verified. Numbers provided only by the compiler should be marked "provided by the compiler, not yet verified item by item".
+
+An external link does not mean this repository has reviewed every image, nor does it grant usage rights. The index still needs to explain its concrete help for looking up settings or related creation, avoiding piles of unrelated links.
+
+### How to submit images for an entry
+
+Meme images can go under `memes/images/<character>/`, for example `memes/images/灭霸/emo_reply.jpg`; covers and wiki display images can go under `assets/images/`. Display the image in the related entry with a relative path, for example:
+
+```markdown
+![Comment screenshot of sad copy turned into a nickname](images/灭霸/emo_reply.jpg)
+```
+
+The example path does not mean the file is already included; replace it with the image actually submitted. Every included image must be locatable from an entry or list, and record the related entry or display purpose, the original link or generation note, the creator (when known), the applicable version, the actual verification scope, and the reposting permission or authorization basis. When adding an asset index, add the index to `memes/README.md`.
+
+Under the [third-party material notice](ATTRIBUTION.md), original images within scope or images with explicit reposting permission can be submitted with a PR; for web images whose permission is unconfirmed, include the source link and text index first. Source links, third-party copyright notices and reposting permission are stated separately, and third-party assets are not automatically relicensed under this repository's CC license. Before submitting, also check images for private information.
+
+### File formats and checks
+
+JPG/JPEG, PNG, GIF and WebP are supported. The file extension should match the actual format; when animation or transparency is needed, check the original asset — renaming a static JPEG or converting formats will not restore animation or an alpha channel.
+
+Pure image directories do not need a README at every level; directories containing Markdown material still need a README index. Image links are checked for file existence. The check script reads the above image formats as binary and verifies file headers; **passing the script only means technical checks pass, while inclusion purpose, source, version and rights status still need human review.**
+
+You can run the following checks locally without installing third-party Python packages:
+
+```bash
+python3 scripts/check_docs.py
+python3 -m unittest discover -s tests -v
+```
 
 ## What a useful contribution looks like
 
-For example, source record [R09](../../sources/R09.md) preserves the comment observation "Hulk's father is called Green Bean Soup":
+For example, source record [R09](sources/R09.md) preserves the comment observation "Hulk's father is called Green Bean Soup":
 
 - Relationship: Hulk → father → Green Bean Soup.
 - Type: comment co-creation; not marked as in-video dialogue.
@@ -100,3 +151,11 @@ Regular contributors push to their own fork. Maintainers with write access may p
 By submitting original organization you agree to share the part you have the rights to license under [CC BY-SA 4.0](../../LICENSE) and retain your attribution rights; no copyright transfer is required. For third-party content you do not have the rights to license, keep only necessary short excerpts, summaries and sources, and attribute them clearly. See [attribution](ATTRIBUTION.md) for details.
 
 Do not submit private chats, real family information, account credentials, absolute local paths or unrelated personal information. Public creator credits used for provenance may be kept; do not additionally collect commenters' contact details or personal profiles. Please also respect other contributors and discuss the material itself.
+
+## Recording different versions of same-name relatives
+
+When the parent table conflicts, prefer adding "creator/specific work + kinship direction + original characters + location" rather than picking one name to overwrite everything. For example, when the same literal name is an older brother in one work and a grandfather in another, keep both; songs, uploader images, in-video self-statements and comment chains are also recorded by type.
+
+When new evidence confirms a previously pending relationship, add the new source in the character file and note the confirmation in the old candidate page; keep the scope of what the old source could see at the time (title/comments only). Synchronize the character index, relationship pages and universe entries as needed, avoiding a page that is confirmed while another still says everything is unverified.
+
+Temporary positions in a single episode, authoritative titles inside a lie, and identities based on borrowed documents cannot be directly upgraded to permanent character attributes. For cross-universe cameos, note the difference between visitors and locals; see the [cameo note](universes/跨宇宙与客串.md) for specific examples.
