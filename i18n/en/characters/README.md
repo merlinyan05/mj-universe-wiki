@@ -5,7 +5,7 @@ Each character is maintained independently; relatives' names follow the correspo
 | Character | Available content | Appearance reference |
 | --- | --- | --- |
 | [Thanos](灭霸.md) | Classroom, universe chaos, everyday life, CP | [Appearance](../../../characters/灭霸.md#外观参考外链) |
-| [Mie Jianguo](灭建国.md) | Campus, family name jokes | [Appearance](../../../characters/灭建国.md#外观参考外链) |
+| [Mie Jianguo](灭建国.md) | Campus, family name jokes | [Appearance](../../../characters/灭建国.md#外观参考待补) |
 | [Rocket Raccoon](小浣熊.md) | Information lead, snack preferences, relatives' resources and name offense | [Appearance](../../../characters/小浣熊.md#外观参考外链) |
 | [Iron Man](钢铁侠.md) | Campus, parents'-name offense and defense, universe chaos | [Appearance](../../../characters/钢铁侠.md#外观参考外链) |
 | [The Ancient One](古一.md) | Campus | [Appearance](../../../characters/古一.md#外观参考外链) |
@@ -17,14 +17,14 @@ Each character is maintained independently; relatives' names follow the correspo
 | [Ant-Man](蚁人.md) | Absence suspense, forwarded copy, everyday abilities and name chain | [Appearance](../../../characters/蚁人.md#外观参考外链) |
 | [Star-Lord](星爵.md) | Parents'-name chain | [Appearance](../../../characters/星爵.md#外观参考外链) |
 | [Wolverine](金刚狼.md) | Parents'-name chain | [Appearance](../../../characters/金刚狼.md#外观参考外链) |
-| [Batman](蝙蝠侠.md) | Cross-work expansion, parents'-name chain | Pending |
-| [MJ and Fat Spider-Man](MJ与胖蜘蛛侠.md) | Everyday life, diner, part-time work | Pending |
-| [JARVIS](贾维斯.md) | Technical execution, information gathering and misread requests | Pending |
-| [Doctor Fate](命运博士.md) | The neighboring DC homeroom teacher and family-name homophones in creator versions | Pending |
-| [Nick Fury](尼克·弗瑞.md) | Creator differences between teacher and tuck-shop owner | Pending |
-| [Loki](洛基.md) | Campus borrowing visits and scare misidentifications | Pending |
-| [Superman](超人.md) | Dorm checks, father-name tracing and counter-measures | Pending |
-| [Gamora](卡魔拉.md) | Daughter title in a creator's family series | Pending |
+| [Batman](蝙蝠侠.md) | Cross-work expansion, parents'-name chain | [Appearance](../../../characters/蝙蝠侠.md#外观参考待补) |
+| [MJ and Fat Spider-Man](MJ与胖蜘蛛侠.md) | Everyday life, diner, part-time work | [Appearance](../../../characters/MJ与胖蜘蛛侠.md#外观参考待补) |
+| [JARVIS](贾维斯.md) | Technical execution, information gathering and misread requests | [Appearance](../../../characters/贾维斯.md#外观参考待补) |
+| [Doctor Fate](命运博士.md) | The neighboring DC homeroom teacher and family-name homophones in creator versions | [Appearance](../../../characters/命运博士.md#外观参考待补) |
+| [Nick Fury](尼克·弗瑞.md) | Creator differences between teacher and tuck-shop owner | [Appearance](../../../characters/尼克·弗瑞.md#外观参考待补) |
+| [Loki](洛基.md) | Campus borrowing visits and scare misidentifications | [Appearance](../../../characters/洛基.md#外观参考待补) |
+| [Superman](超人.md) | Dorm checks, father-name tracing and counter-measures | [Appearance](../../../characters/超人.md#外观参考待补) |
+| [Gamora](卡魔拉.md) | Daughter title in a creator's family series | [Appearance](../../../characters/卡魔拉.md#外观参考待补) |
 
 To add a character, copy the [character template](../templates/人物模板.md) (Chinese) and add a line to this index.
 

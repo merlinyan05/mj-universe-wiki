@@ -98,7 +98,7 @@ Autoplay of shorts switches to another video; when this happened the current tit
 
 ### What was added this round
 
-New [R28—R39 source entries](../sources/README.md), and checks added under the original numbers for R08 and S4. A new [MJ_HISTORY](MJ_HISTORY.md) separates "directly checkable publication milestones", "historical claims by explainers and comments" and "priority questions still needing original posts".
+New [R28—R39 source entries](../sources/README.md#origins-and-spread-added-2026-11-08), and checks added under the original numbers for R08 and S4. A new [MJ_HISTORY](MJ_HISTORY.md) separates "directly checkable publication milestones", "historical claims by explainers and comments" and "priority questions still needing original posts".
 
 Further found and checked: the 2024 Reddit Fat Spider-Man image thread, the 2010 author blog parody record, the August chat easter-egg news, and the Douyin "艾慕杰" work page of 24 October. Specific time zones, reposts and viewing scope are explained in each source; it is not established as the internet's first.
 
@@ -153,7 +153,7 @@ On Douyin, 4 original videos/clips, the metadata and a few frames of 2 explainer
 
 ### What was added this round
 
-- New [R72—R88 source records](../sources/README.md), with sources merged by topic or continuous series; not all 38 are released as brand-new plot.
+- New [R72—R88 source records](../sources/README.md#characters-continuous-worldlines-and-early-posts-added-2026-11-10), with sources merged by topic or continuous series; not all 38 are released as brand-new plot.
 - The [character files](../characters/README.md) grow from 17 to 21, adding Nick Fury, Loki, Superman and Gamora; Captain America's class-monitor role and sense of responsibility, Raccoon's tastes and family resources, Ant-Man's forwarding, the doctor's motive for reporting, delivery and shopkeeper identities, and the system assistant's ability conditions are supplemented. Character-specific appearance references are still to be added, and no unauthorised images were copied.
 - [Family relationships](../relationships/灭霸与浩克.md) are supplemented from title/comment leads to concrete partners and daughter forms of address; creator boundaries are kept and no biological mechanism is added.
 - [Existing patterns](../universes/patterns/README.md) add bait posts, false targets, shared-phone imbalance, warnings losing credibility, interrogation confessions, hidden advantages, clean-up exposure and hand-drawn old-object callbacks. Characters are still maintained separately, and patterns still belong under universes.
