@@ -39,3 +39,10 @@
 - [作者系列](../universes/校园宇宙/作者系列.md)与[跨宇宙](../universes/跨宇宙与客串.md)：日常假天气、不同末日、OC和同脸不同记忆分别组织。
 - [13组模式变化](../universes/patterns/README.md)：现有模式补片例、角色关系与升级后果，不按视频复制模式。
 - [传播史](MJ_HISTORY.md)与[本轮实际范围](MJ_RESEARCH_NOTES.md)：8月17日公开解说不当唯一首创证明，114条元信息不等于114条独立新作。
+
+## 2026-11-19新增入口
+
+- [人物补充](../characters/README.md)：11份档案扩写行为与版本，火箭家谱核字，导员角色映射待核。
+- [饥饿站台](../universes/饥饿站台宇宙/README.md)：四个投稿者的规则比较与[逐层耗尽模式](../universes/饥饿站台宇宙/patterns/逐层耗尽与换层回扣.md)。
+- [校园作者系列](../universes/校园宇宙/作者系列.md)、[跨宇宙与客串](../universes/跨宇宙与客串.md)：连续故事、乡土主角、借脸替演与CP揭底分开。
+- [10组模式变化](../universes/patterns/README.md)、[来源](../sources/README.md)与[实际范围／待核清单](MJ_RESEARCH_NOTES.md)：热门优先选片，评论猜测不回填原片。
