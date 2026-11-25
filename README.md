@@ -22,7 +22,7 @@
 | 搭档、师生、CP 与关系未明的名字 | [人物关系](relationships/README.md) |
 | 这下玩大了、姓名接龙、蚁人去哪了 | [梗与口头禅](memes/README.md) |
 | emo 朋友圈、姓名攻防、整蛊反制 | [剧情套路](universes/patterns/README.md) |
-| 2026-11-19 更新：近期热门片例、亲属字幕、作者版本、饥饿站台与10组模式变化 | [最新调研](docs/MJ_RESEARCH_NOTES.md) · [模式索引](universes/patterns/README.md) |
+| 2026-11-25 更新：黄金巨蟒信息位、浣翠花、病魔番外、校园与日常新套路 | [最新调研](docs/MJ_RESEARCH_NOTES.md#2026-11-25一小时近期热门原片调研) · [模式索引](universes/patterns/README.md) |
 | 原片与评论的链接、观察范围 | [来源记录](sources/README.md) |
 | MJ名称、胖蜘蛛侠图像、校园分支与灭建国的现实传播；2026-11-17更新 | [起源与传播史](docs/MJ_HISTORY.md) |
 | 调研方法与历史检索 | [调研笔记](docs/MJ_RESEARCH_NOTES.md) |
